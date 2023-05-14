@@ -24,11 +24,11 @@ The Interchain Hackathon is the Phase 2 of GoN. It is designed to incentivize de
 
 Please follow these instructions to complete the workshop:
 
-0. [GoN Hackathon Preparation](./docs/1.Preparation.md)
-1. [Transfer NFT From Irisnet to Uptick](./docs/2.Iris2Uptick.md)
-2. [Convert From Cosmos NFT to ERC721](./docs/3.CosmosNFT2ERC.md)
-3. [Convert From ERC721 to Cosmos NFT](./docs/4.ERC2CosmosNFT.md)
-4. [Transfer NFT From Uptick to Irisnet](./docs/5.Uptick2Iris.md)
+0. [GoN Hackathon Preparation](./docs/0.Preparation.md)
+1. [Transfer NFT From Irisnet to Uptick](./docs/1.Iris2Uptick.md)
+2. [Convert From Cosmos NFT to ERC721](./docs/2.CosmosNFT2ERC.md)
+3. [Convert From ERC721 to Cosmos NFT](./docs/3.ERC2CosmosNFT.md)
+4. [Transfer NFT From Uptick to Irisnet](./docs/4.Uptick2Iris.md)
 
 
 ### References
