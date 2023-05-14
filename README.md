@@ -10,39 +10,29 @@ This workshop's primary goal is to better understand the ISC721 nft transfer pro
 
 ### What does GoN Hackathon do
 
-==== TODO Start <br/>
+<br/>
 
-Game of NFTs (GoN) is a program that provides public environments where the Interchain NFT Transfer technology can be extensively tested with community support and innovations can be created pioneeringly.
-
-+ Gon Chains Introduction
-
-| #  | Testnets | ISC721 Chain Type | Coin Type |
-| ------------- | ------------- |  ------------- | ------------- |
-| 1  | IRISnet  | ICS721 SDK chain| 118 |
-| 2  | Uptick   | ICS721 SDK chain| 60 |
-| 3  | Stargaze   | ICS721 Wasm chain|118 |
-| 4  | Juno   | ICS721 Wasm chain  | 118|
-| 5  | OmniFlix   | ICS721 Wasm chain| 118 |
+The Interchain Hackathon is the Phase 2 of GoN. It is designed to incentivize developers to build innovative solutions with Interchain NFTs (ICS721) with prizes equaling about $300,000 USD in Sponsors' tokens and credits.
 
 
-+ Interchain NFT Transfer 
-![](img/Interchain-NFT-Transfer.png)
++ Interchain NFT Flow 
+![](img/flow.png)
 
-==== TODO End <br/>
+ <br/>
 
 ### Step-by-step Instructions
 
 Please follow these instructions to complete the workshop:
 
-1. [GoN Hackathon Preparation](./docs/1.Preparation.md)
-2. [Transfer NFT From Irisnet to Uptick](./docs/1.Preparation.md)
-3. [Convert From Cosmos NFT to ERC721](./docs/1.Preparation.md)
-4. [Convert From ERC721 to Cosmos NFT](./docs/1.Preparation.md)
-5. [Transfer NFT From Uptick to Irisnet](./docs/1.Preparation.md)
+0. [GoN Hackathon Preparation](./docs/1.Preparation.md)
+1. [Transfer NFT From Irisnet to Uptick](./docs/2.Iris2Uptick.md)
+2. [Convert From Cosmos NFT to ERC721](./docs/3.CosmosNFT2ERC.md)
+3. [Convert From ERC721 to Cosmos NFT](./docs/4.ERC2CosmosNFT.md)
+4. [Transfer NFT From Uptick to Irisnet](./docs/5.Uptick2Iris.md)
 
 
 ### References
-
++ [Game of NFTS Hackathon Workshop](https://github.com/xavier200203/gon2-workshop/)
 + [Game of NFTS Hackathon](https://dorahacks.io/hackathon/game-of-nfts)
 + [Interchain NFTS - Cosmos Ecosystem Live Chat](https://www.youtube.com/watch?v=1Yl7EgnBLms)
 + [Game of NFTS](https://interchainnfts.dev/gon)
