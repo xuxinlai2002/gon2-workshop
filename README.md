@@ -32,7 +32,7 @@ Please follow these instructions to complete the workshop:
 
 
 ### References
-+ [Game of NFTS Hackathon Workshop](https://github.com/xavier200203/gon2-workshop/)
++ [Gon Demo from Uptick Nodejs SDK](https://github.com/uptSmart/gon-uptickDemo/)
 + [Game of NFTS Hackathon](https://dorahacks.io/hackathon/game-of-nfts)
 + [Interchain NFTS - Cosmos Ecosystem Live Chat](https://www.youtube.com/watch?v=1Yl7EgnBLms)
 + [Game of NFTS](https://interchainnfts.dev/gon)
