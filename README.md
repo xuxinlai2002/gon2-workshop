@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this workshop we will be working with the [ISC721](https://github.com/cosmos/ibc/tree/main/spec/app/ics-721-nft-transfer) in order to transfer Non-Fungible Token between different testnets(IRISnet,Uptick) with nodejs SDK.
+In this workshop we will be working with the [ISC721](https://github.com/cosmos/ibc/tree/main/spec/app/ics-721-nft-transfer) in order to transfer Non-Fungible Token between different testnets(IRISnet,Uptick) with uptick nodejs SDK and mutual conversion between cosmos NFT and ERC721
 
 This repository contains all the instructions If you want to participate in gon hackathon. Please follow the step-by-step instructions below to complete the workshop.
 
